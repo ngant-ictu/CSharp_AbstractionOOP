@@ -1,0 +1,14 @@
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/bin/Debug/net8.0/AbstractionOOP
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/bin/Debug/net8.0/AbstractionOOP.deps.json
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/bin/Debug/net8.0/AbstractionOOP.runtimeconfig.json
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/bin/Debug/net8.0/AbstractionOOP.dll
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/bin/Debug/net8.0/AbstractionOOP.pdb
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.AssemblyInfo.cs
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.dll
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/refint/AbstractionOOP.dll
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.pdb
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/AbstractionOOP.genruntimeconfig.cache
+/Applications/MAMP/htdocs/DotNet/AbstractionOOP/AbstractionOOP/obj/Debug/net8.0/ref/AbstractionOOP.dll
